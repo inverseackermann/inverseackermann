@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/aa/33/31/aa33311968b380b90e0dc2aa9ffc274f.gif" width="100%" alt="banner">
+  <img src="https://i.pinimg.com/originals/aa/33/31/aa33311968b380b90e0dc2aa9ffc274f.gif" width="80%" alt="banner">
 </p>
 
 <h1 align="center"> Ackermann </h1>
