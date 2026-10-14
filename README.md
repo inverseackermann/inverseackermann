@@ -4,7 +4,6 @@
   <img src="https://i.pinimg.com/originals/aa/33/31/aa33311968b380b90e0dc2aa9ffc274f.gif" width="80%" alt="banner">
 </p>
 
-<h1 align="center"> Ackermann </h1>
 
 <p align="center">
   <i>α(n) ≤ 4 for any n that fits in the universe.<br>
