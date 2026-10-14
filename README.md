@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58a6ff" alt="Linux">
 </p>
 
----
 
 ## `$ whoami`
 
@@ -30,7 +29,6 @@ interests : HPC · numerical methods · compilers · OS internals · MLSys
 
 I like the layer underneath. The code other code runs on.
 
----
 
 
 ## `$ man research`
